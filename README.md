@@ -27,5 +27,5 @@
 - 游戏结束界面：显示最终分数，支持重新开始
 
 ## 📌 项目结构
--Snake_Game
--README.md
+- Snake_Game
+- README.md
