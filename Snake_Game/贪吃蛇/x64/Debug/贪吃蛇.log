@@ -1,0 +1,4 @@
+﻿  贪吃蛇.cpp
+D:\csp\贪吃蛇\贪吃蛇\贪吃蛇.cpp(63,20): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\csp\贪吃蛇\贪吃蛇\贪吃蛇.cpp(237,15): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  贪吃蛇.vcxproj -> D:\csp\贪吃蛇\x64\Debug\贪吃蛇.exe
